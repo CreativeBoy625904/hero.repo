@@ -1,0 +1,109 @@
+#background{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.left-side{
+    font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    margin-left: 120px;
+    height: 300px;
+    margin-top: 50px;
+}
+.right-side{
+    height: 200px; 
+    margin-right: 120px; margin-top: 0px;
+}
+
+.img img{
+    height:100%;
+    width: 500px;
+    margin-top: 100px;
+    margin-right: 130px;
+
+}
+#seacond{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 140px;
+}
+.pic img{
+    height: 700px;
+    width: 500px;
+    padding-top: 200px;
+    padding-left: 130px;
+
+}
+.right{
+    font-family: fantasy;
+    font-size: 30px;
+    margin-top: 120px;
+    margin-right: 140px;
+    width: 600px;
+    height: 200px;
+    
+        font-family:inherit;
+    }
+   
+    .ta img{
+        height: 400px;
+        width: 500px; 
+        margin-top: 100px;
+    }
+#all{
+    display: flex;
+    justify-content: space-between;
+
+}
+.left img{height: 50px;
+    width: 50px;
+
+}
+.left{
+width: 400px;
+margin-top: 200px;
+margin-left: 150px;
+font-family: initial;
+box-shadow: inset 0 0 35px 5px rgba(0, 0, 0, 0.25), inset 0 2px 1px 1px rgba(255, 255, 255, 0.9), inset 0 -2px 1px rgba(0, 0, 0, 0.25);
+padding: 25px 20px 22px 26px;
+
+}
+.middle{ font-family: monospace;
+    width: 400px;
+        margin-top: 200px;
+        margin-left: 150px;
+        height: 400px;
+        box-shadow: 0 20px 10px -20px rgba(0, 0, 0, 0.45) inset, -20px 0 10px -20px rgba(0, 0, 0, 0.45) inset;
+        padding: 25px 20px 22px 26px;
+}
+.middle img{height: 50px;
+    width: 50px;
+    
+}
+
+.rightt img{height: 50px;
+    width: 50px;
+
+}
+.rightt{margin-top: 200px;
+    margin-left: 150px;
+    height: 400px; width: 400px;
+   font-family:monospace ;margin-right: 120px;
+   
+box-shadow: 0 60px 80px rgba(0, 0, 0, 0.60), 0 45px 26px rgba(0, 0, 0, 0.14);
+padding: 20px 35px ;
+}
+body{
+    background-color: aqua;
+}
+.right p{
+    width: 700px;
+
+    height: 300px;
+}
+marquee{
+   font-family: initial;
+    font-size: 90px;
+    justify-content: space-around;
+}
